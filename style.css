@@ -1,0 +1,12 @@
+#coolTitle {
+    background: linear-gradient(to right, red, orange, yellow, lime, aqua, blue, pink);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+#warner {
+    opacity: 0.4;
+    color: red;
+}
+#coolWords {
+    color: black;
+}
