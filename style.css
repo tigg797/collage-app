@@ -10,3 +10,15 @@
 #coolWords {
     color: black;
 }
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    background-color: palegoldenrod;
+    }
+#camera {
+    width: 500;
+    height: 400;
+}
